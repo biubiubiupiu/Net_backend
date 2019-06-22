@@ -1,0 +1,14 @@
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\bin\Debug\netcoreapp2.1\Web_backhand.deps.json
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\bin\Debug\netcoreapp2.1\Web_backhand.runtimeconfig.json
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\bin\Debug\netcoreapp2.1\Web_backhand.runtimeconfig.dev.json
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\bin\Debug\netcoreapp2.1\Web_backhand.dll
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\bin\Debug\netcoreapp2.1\Web_backhand.pdb
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.csprojAssemblyReference.cache
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.csproj.CoreCompileInputs.cache
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.RazorAssemblyInfo.cache
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.RazorAssemblyInfo.cs
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.AssemblyInfoInputs.cache
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.AssemblyInfo.cs
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.RazorTargetAssemblyInfo.cache
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.dll
+F:\eclipse\projects\Web\Web_backhand\Web_backhand\obj\Debug\netcoreapp2.1\Web_backhand.pdb
